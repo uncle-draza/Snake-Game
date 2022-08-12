@@ -1,4 +1,4 @@
-#Snake
+# Snake
 
 ## [SRB] Projektni zadatak u okviru seminarskog rada iz predmeta Objektno Orijentisano Programiranje 
 ## [ENG] Assignment from Object Oriented Programming University course
